@@ -281,7 +281,7 @@ Although the Moodle tabs are created manually in Microsoft Teams, you can decide
 When a Moodle course is synced, Microsoft Teams automatically installs the Moodle app in the team, creates a Moodle tab in the General channel of Teams, and configures it to contain the course page for the Moodle course from which it is synced. You can now start working with your Moodle courses directly from Microsoft Teams.
 
 > [!NOTE]
-> To share any feature requests or feedback with us, visit our [User Voice page](https://microsoftteams.uservoice.com/forums/916759-moodle).
+> To share any feature requests or feedback with us, visit our [Microsoft Teams Feedback](https://feedbackportal.microsoft.com/feedback/forum/ad198462-1c1c-ec11-b6e7-0022481f8472).
 
 ## See also
 
